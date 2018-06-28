@@ -3,7 +3,10 @@
 * Mozilla: [Learning HTML: Guides and tutorials](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * Codecademy: [Learn HTML](https://www.codecademy.com/learn/learn-html)
 * W3: [Validator](https://validator.w3.org/)
-* [Web fundamentals](https://developers.google.com/web/fundamentals/), Used to be _HTML5 Rocks_
+* A List Apart Topic: [HTML](https://alistapart.com/topic/html)
+* Apple: [Developing Web Content for Safari](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/Introduction/Introduction.html)
+* Android: [Web-Based Content](https://developer.android.com/guide/webapps/)
+* [Web fundamentals](https://developers.google.com/web/fundamentals/) (Used to be _HTML5 Rocks_)
 
 # CSS
 
