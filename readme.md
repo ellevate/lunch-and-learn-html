@@ -1,6 +1,7 @@
 # Markup
 
 * Mozilla: [Learning HTML: Guides and tutorials](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+* Mozilla: [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * Codecademy: [Learn HTML](https://www.codecademy.com/learn/learn-html)
 * w3c [Standards](https://www.w3.org/standards/webdesign/) webdesign
 * w3c [Validator](https://validator.w3.org/)
@@ -67,8 +68,13 @@ With Twitter Cards, you can attach rich photos, videos and media experiences to 
 * The A11Y Project: [A community-driven effort to make web accessibility easier](https://a11yproject.com/)
 * A List Apart Topic: [Accessibility](https://alistapart.com/topic/accessibility)
 
+# Favicons
+
+* Favicon Generator. For real. [realfavicongenerator](https://realfavicongenerator.net/)
+
 # Genral Web
 
 * [Luke W](https://www.lukew.com/)
 * [NN/g](https://www.nngroup.com/articles/)
 * [Hacker Noon](https://hackernoon.com/)
+* [Space Jam](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
