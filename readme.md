@@ -4,9 +4,9 @@
 * Codecademy: [Learn HTML](https://www.codecademy.com/learn/learn-html)
 * W3: [Validator](https://validator.w3.org/)
 * A List Apart Topic: [HTML](https://alistapart.com/topic/html)
+* [Web fundamentals](https://developers.google.com/web/fundamentals/) (Used to be _HTML5 Rocks_)
 * Apple: [Developing Web Content for Safari](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/Introduction/Introduction.html)
 * Android: [Web-Based Content](https://developer.android.com/guide/webapps/)
-* [Web fundamentals](https://developers.google.com/web/fundamentals/) (Used to be _HTML5 Rocks_)
 
 # CSS
 
@@ -17,7 +17,7 @@
 # Javascript
 
 * Mozilla: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-* Codecademy: [ntroduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+* Codecademy: [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 # SEO
 
@@ -65,3 +65,9 @@ With Twitter Cards, you can attach rich photos, videos and media experiences to 
 * Mozilla: [Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 * The A11Y Project: [A community-driven effort to make web accessibility easier](https://a11yproject.com/)
 * A List Apart Topic: [Accessibility](https://alistapart.com/topic/accessibility)
+
+# Genral Web
+
+* (Luke W)[https://www.lukew.com/]
+* (NN/g)[https://www.nngroup.com/articles/]
+* (Hacker Noon)[https://hackernoon.com/]
