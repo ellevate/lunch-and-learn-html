@@ -68,6 +68,6 @@ With Twitter Cards, you can attach rich photos, videos and media experiences to 
 
 # Genral Web
 
-* (Luke W)[https://www.lukew.com/]
-* (NN/g)[https://www.nngroup.com/articles/]
-* (Hacker Noon)[https://hackernoon.com/]
+* [Luke W](https://www.lukew.com/)
+* [NN/g](https://www.nngroup.com/articles/)
+* [Hacker Noon](https://hackernoon.com/)
