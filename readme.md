@@ -78,3 +78,4 @@ With Twitter Cards, you can attach rich photos, videos and media experiences to 
 * [NN/g](https://www.nngroup.com/articles/)
 * [Hacker Noon](https://hackernoon.com/)
 * [Space Jam](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
+* [CSS Color Names](https://htmlcolorcodes.com/color-names/)
