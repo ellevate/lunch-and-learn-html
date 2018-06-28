@@ -3,9 +3,11 @@
 * Mozilla: [Learning HTML: Guides and tutorials](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * Codecademy: [Learn HTML](https://www.codecademy.com/learn/learn-html)
 * W3: [Validator](https://validator.w3.org/)
+* [Web fundamentals](https://developers.google.com/web/fundamentals/), Used to be _HTML5 Rocks_
 
 # CSS
 
+* Mozilla: [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * Codecademy: [Learn CSS](https://www.codecademy.com/learn/learn-css)
 * A List Apart Topic: [CSS](https://alistapart.com/topic/css)
 
@@ -14,6 +16,13 @@
 * Mozilla: [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 * Codecademy: [ntroduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
+# SEO
+
+* Search Engine Optimization (SEO) [Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en)
+* Google: [Search Console](https://www.google.com/webmasters/tools/home?hl=en)
+* Google Webmasters [YouTube](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
+* Bing: [toolbox: Webmaster](https://www.bing.com/toolbox/webmaster)
+
 # Microformats
 
 * Google: [Introduction to Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data)
@@ -21,6 +30,8 @@
 * [microformats](http://microformats.org/)
 
 # Social Sharing
+
+>The Open Graph protocol enables any web page to become a rich object in a social graph. For instance, this is used on Facebook to allow any web page to have the same functionality as any other object on Facebook.
 
 * [The Open Graph protocol](http://ogp.me/)
 
@@ -39,6 +50,9 @@ With Twitter Cards, you can attach rich photos, videos and media experiences to 
 
 * [Optimize Tweets with Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards.html)
 * [Card validator](https://cards-dev.twitter.com/validator)
+
+### Linkedin
+* [Share on Linkedin](https://developer.linkedin.com/docs/share-on-linkedin)
 
 # Accessibility
 
