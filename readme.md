@@ -28,8 +28,8 @@
 
 # Microformats
 
+* Founded by Google, Microsoft, Yahoo and Yandex, [schema.org](https://schema.org/) vocabularies are developed by an open community process, using the public-schemaorg@w3.org mailing list and through GitHub
 * Google: [Introduction to Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data)
-* [schema.org](https://schema.org/)
 * [microformats](http://microformats.org/)
 
 # Social Sharing
